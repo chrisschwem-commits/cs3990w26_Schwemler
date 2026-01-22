@@ -8,9 +8,27 @@ header {
 
 }
 
+.headerImageMain {
+    float: left;
+    margin: 0px 15px 15px 0px;
+}
+
+h3 {
+    background: -moz-repeating-linear-gradient();
+}
+
+h2 {
+    font-style: italic;
+}
+
+p {
+    line-height: 30px;
+}
+
 .container {
   text-align: center; /* Centers the list block within the container */
 }
+
 ul {
   display: inline-block; /* Allows text-align center to work on the ul */
   text-align: left; /* Aligns the list text to the left */
